@@ -96,6 +96,10 @@
     <Compile Include="Assets\Chapter8\ClassB.cs" />
     <Compile Include="Assets\Chapter8\Degree.cs" />
     <Compile Include="Assets\Chapter8\Radian.cs" />
+    <Compile Include="Assets\Chapter9\Chap9.cs" />
+    <Compile Include="Assets\Chapter9\ClassA.cs" />
+    <Compile Include="Assets\Chapter9\ClassB.cs" />
+    <Compile Include="Assets\Chapter9\EventDispatcher.cs" />
     <Compile Include="Assets\Test.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
