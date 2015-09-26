@@ -70,12 +70,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter10\Chap10.cs" />
-    <Compile Include="Assets\Chapter10\ClassA.cs" />
-    <Compile Include="Assets\Chapter10\ClassB.cs" />
+    <Compile Include="Assets\Chapter11\Chap11.cs" />
+    <Compile Include="Assets\Chapter11\ClassA.cs" />
+    <Compile Include="Assets\Chapter11\ClassB.cs" />
+    <Compile Include="Assets\Chapter12\Chap12.cs" />
+    <Compile Include="Assets\Chapter12\ClassA.cs" />
+    <Compile Include="Assets\Chapter12\ClassB.cs" />
     <Compile Include="Assets\Chapter1\Chap1.cs" />
     <Compile Include="Assets\Chapter1\ClassA.cs" />
     <Compile Include="Assets\Chapter1\ClassB.cs" />
+    <Compile Include="Assets\Chapter10\Chap10.cs" />
+    <Compile Include="Assets\Chapter10\ClassA.cs" />
+    <Compile Include="Assets\Chapter10\ClassB.cs" />
     <Compile Include="Assets\Chapter2\Chap2.cs" />
     <Compile Include="Assets\Chapter2\ClassA.cs" />
     <Compile Include="Assets\Chapter2\ClassB.cs" />
@@ -107,6 +113,5 @@
     <Compile Include="Assets\Chapter9\EventDispatcher.cs" />
     <Compile Include="Assets\Test.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

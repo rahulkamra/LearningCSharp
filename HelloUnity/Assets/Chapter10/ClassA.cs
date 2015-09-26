@@ -22,6 +22,7 @@ namespace Chapter10
     {
         public static string toGeneratedString<T>(this T test)
         {
+            
             Array array = Enum.GetValues(typeof(T));
             for(int count = 0; count < array.Length; count++)
             {
