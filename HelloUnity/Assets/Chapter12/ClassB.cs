@@ -6,9 +6,13 @@ using UnityEngine;
 
 namespace Chapter12
 {
-    public class ClassB
+    [MyAttrib("ClassB", 10)]
+    public class ClassB<T> : ClassA<T>
     {
-
+        public void getClass(T t)
+        {
+            
+        }
     }
     
 }

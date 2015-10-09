@@ -70,18 +70,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter11\Chap11.cs" />
-    <Compile Include="Assets\Chapter11\ClassA.cs" />
-    <Compile Include="Assets\Chapter11\ClassB.cs" />
-    <Compile Include="Assets\Chapter12\Chap12.cs" />
-    <Compile Include="Assets\Chapter12\ClassA.cs" />
-    <Compile Include="Assets\Chapter12\ClassB.cs" />
+    <Compile Include="Assets\Chapter12\ClassC.cs" />
+    <Compile Include="Assets\Chapter12\MyAttrib.cs" />
     <Compile Include="Assets\Chapter1\Chap1.cs" />
     <Compile Include="Assets\Chapter1\ClassA.cs" />
     <Compile Include="Assets\Chapter1\ClassB.cs" />
     <Compile Include="Assets\Chapter10\Chap10.cs" />
     <Compile Include="Assets\Chapter10\ClassA.cs" />
     <Compile Include="Assets\Chapter10\ClassB.cs" />
+    <Compile Include="Assets\Chapter11\Chap11.cs" />
+    <Compile Include="Assets\Chapter11\ClassA.cs" />
+    <Compile Include="Assets\Chapter11\ClassB.cs" />
+    <Compile Include="Assets\Chapter12\Chap12.cs" />
+    <Compile Include="Assets\Chapter12\ClassA.cs" />
+    <Compile Include="Assets\Chapter12\ClassB.cs" />
     <Compile Include="Assets\Chapter2\Chap2.cs" />
     <Compile Include="Assets\Chapter2\ClassA.cs" />
     <Compile Include="Assets\Chapter2\ClassB.cs" />
