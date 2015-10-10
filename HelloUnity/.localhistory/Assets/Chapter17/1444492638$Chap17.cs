@@ -1,0 +1,67 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using System.Reflection;
+using UnityEngine;
+
+namespace Chapter17
+{
+    class Chap17
+    {
+        public void execute()   
+        {
+            foreach(int idx in dodo(1,2))
+            {
+                Debug.Log(idx);
+            }
+
+            IEnumerable<int> x=  dodo(1, 2);
+
+            Debug.Log(x.ElementAt<int>(1));
+            Debug.Log(x.Count<int>());
+
+            IEnumerator<int> ien =  x.GetEnumerator();
+
+
+            Debug.Log("--------");
+            Debug.Log(ien.Current);
+            
+            bool moveNext = ien.MoveNext();
+
+            Debug.Log("--------" + moveNext);
+            Debug.Log(ien.Current);
+            Debug.Log("--------");
+
+            foreach (var square in PerfetSquares(100))
+            {
+                Debug.Log(square);
+            }
+        }
+
+
+        public IEnumerable<int> dodo(int x, int y)
+        {
+            
+            yield return x + y;
+
+            yield return x - y;
+            
+            yield return x * y;
+
+            yield return x / y;
+        }
+
+        private IEnumerable<int> PerfetSquares(int max)
+        {
+            var cur = 0;
+            for (var i = 0; cur < max; ++i)
+            {
+                cur = i * i;
+                yield return cur;
+            }
+        }
+    }
+
+}

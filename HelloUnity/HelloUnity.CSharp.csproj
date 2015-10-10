@@ -70,9 +70,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter16\Chap16.cs" />
-    <Compile Include="Assets\Chapter16\ClassA.cs" />
-    <Compile Include="Assets\Chapter16\ClassB.cs" />
+    <Compile Include="Assets\Chapter17\Chap17.cs" />
+    <Compile Include="Assets\Chapter17\ClassA.cs" />
+    <Compile Include="Assets\Chapter17\ClassB.cs" />
     <Compile Include="Assets\Chapter1\Chap1.cs" />
     <Compile Include="Assets\Chapter1\ClassA.cs" />
     <Compile Include="Assets\Chapter1\ClassB.cs" />
@@ -96,6 +96,9 @@
     <Compile Include="Assets\Chapter15\Chap15.cs" />
     <Compile Include="Assets\Chapter15\ClassA.cs" />
     <Compile Include="Assets\Chapter15\ClassB.cs" />
+    <Compile Include="Assets\Chapter16\Chap16.cs" />
+    <Compile Include="Assets\Chapter16\ClassA.cs" />
+    <Compile Include="Assets\Chapter16\ClassB.cs" />
     <Compile Include="Assets\Chapter2\Chap2.cs" />
     <Compile Include="Assets\Chapter2\ClassA.cs" />
     <Compile Include="Assets\Chapter2\ClassB.cs" />

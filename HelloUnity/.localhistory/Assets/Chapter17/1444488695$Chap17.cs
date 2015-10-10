@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using System.Reflection;
+using UnityEngine;
+
+namespace Chapter17
+{
+    class Chap17
+    {
+        public void execute()   
+        {
+            foreach (int idx in sum(1,2))
+            {
+                Debug.Log();
+            }
+        }
+
+
+        public IEnumerable<int> sum(int x, int y)
+        {
+            yield return x + y;
+            
+        }
+    }
+
+}
