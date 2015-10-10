@@ -70,15 +70,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter13\Chap13.cs" />
-    <Compile Include="Assets\Chapter13\ClassA.cs" />
-    <Compile Include="Assets\Chapter13\ClassB.cs" />
-    <Compile Include="Assets\Chapter15\Chap15.cs" />
-    <Compile Include="Assets\Chapter15\ClassA.cs" />
-    <Compile Include="Assets\Chapter15\ClassB.cs" />
-    <Compile Include="Assets\Chapter14\Chap14.cs" />
-    <Compile Include="Assets\Chapter14\ClassA.cs" />
-    <Compile Include="Assets\Chapter14\ClassB.cs" />
+    <Compile Include="Assets\Chapter16\Chap16.cs" />
+    <Compile Include="Assets\Chapter16\ClassA.cs" />
+    <Compile Include="Assets\Chapter16\ClassB.cs" />
     <Compile Include="Assets\Chapter1\Chap1.cs" />
     <Compile Include="Assets\Chapter1\ClassA.cs" />
     <Compile Include="Assets\Chapter1\ClassB.cs" />
@@ -93,6 +87,15 @@
     <Compile Include="Assets\Chapter12\ClassB.cs" />
     <Compile Include="Assets\Chapter12\ClassC.cs" />
     <Compile Include="Assets\Chapter12\MyAttrib.cs" />
+    <Compile Include="Assets\Chapter13\Chap13.cs" />
+    <Compile Include="Assets\Chapter13\ClassA.cs" />
+    <Compile Include="Assets\Chapter13\ClassB.cs" />
+    <Compile Include="Assets\Chapter14\Chap14.cs" />
+    <Compile Include="Assets\Chapter14\ClassA.cs" />
+    <Compile Include="Assets\Chapter14\ClassB.cs" />
+    <Compile Include="Assets\Chapter15\Chap15.cs" />
+    <Compile Include="Assets\Chapter15\ClassA.cs" />
+    <Compile Include="Assets\Chapter15\ClassB.cs" />
     <Compile Include="Assets\Chapter2\Chap2.cs" />
     <Compile Include="Assets\Chapter2\ClassA.cs" />
     <Compile Include="Assets\Chapter2\ClassB.cs" />
