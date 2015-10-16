@@ -70,9 +70,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter18\Chap18.cs" />
-    <Compile Include="Assets\Chapter18\ClassA.cs" />
-    <Compile Include="Assets\Chapter18\ClassB.cs" />
+    <Compile Include="Assets\Chapter17 - Copy\Chap17.cs" />
+    <Compile Include="Assets\Chapter17 - Copy\ClassA.cs" />
+    <Compile Include="Assets\Chapter17 - Copy\ClassB.cs" />
     <Compile Include="Assets\Chapter1\Chap1.cs" />
     <Compile Include="Assets\Chapter1\ClassA.cs" />
     <Compile Include="Assets\Chapter1\ClassB.cs" />
