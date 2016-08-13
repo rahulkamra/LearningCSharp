@@ -99,9 +99,9 @@
     <Compile Include="Assets\Chapter17YieldAndEnumerator\Chap17.cs" />
     <Compile Include="Assets\Chapter17YieldAndEnumerator\ClassA.cs" />
     <Compile Include="Assets\Chapter17YieldAndEnumerator\ClassB.cs" />
-    <Compile Include="Assets\Chapter18Struct\Chap18.cs" />
-    <Compile Include="Assets\Chapter18Struct\ClassA.cs" />
-    <Compile Include="Assets\Chapter18Struct\ClassB.cs" />
+    <Compile Include="Assets\Chapter18\Chap18.cs" />
+    <Compile Include="Assets\Chapter18\ClassA.cs" />
+    <Compile Include="Assets\Chapter18\ClassB.cs" />
     <Compile Include="Assets\Chapter02FunctionOverriding\Chap2.cs" />
     <Compile Include="Assets\Chapter02FunctionOverriding\ClassA.cs" />
     <Compile Include="Assets\Chapter02FunctionOverriding\ClassB.cs" />
