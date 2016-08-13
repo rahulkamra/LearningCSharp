@@ -70,9 +70,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Chapter01FunctionOverloading\Chap1.cs" />
-    <Compile Include="Assets\Chapter01FunctionOverloading\ClassA.cs" />
-    <Compile Include="Assets\Chapter01FunctionOverloading\ClassB.cs" />
+    <Compile Include="Assets\Chapter1FunctionOverloading\Chap1.cs" />
+    <Compile Include="Assets\Chapter1FunctionOverloading\ClassA.cs" />
+    <Compile Include="Assets\Chapter1FunctionOverloading\ClassB.cs" />
     <Compile Include="Assets\Chapter10\Chap10.cs" />
     <Compile Include="Assets\Chapter10\ClassA.cs" />
     <Compile Include="Assets\Chapter10\ClassB.cs" />
