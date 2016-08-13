@@ -113,9 +113,9 @@
     <Compile Include="Assets\Chapter04AbstractClass\Chap4.cs" />
     <Compile Include="Assets\Chapter04AbstractClass\ClassA.cs" />
     <Compile Include="Assets\Chapter04AbstractClass\ClassB.cs" />
-    <Compile Include="Assets\Chapter05StaticFields\Chap5.cs" />
-    <Compile Include="Assets\Chapter05StaticFields\ClassA.cs" />
-    <Compile Include="Assets\Chapter05StaticFields\ClassB.cs" />
+    <Compile Include="Assets\Chapter5\Chap5.cs" />
+    <Compile Include="Assets\Chapter5\ClassA.cs" />
+    <Compile Include="Assets\Chapter5\ClassB.cs" />
     <Compile Include="Assets\Chapter6\Chap6.cs" />
     <Compile Include="Assets\Chapter6\ClassA.cs" />
     <Compile Include="Assets\Chapter6\ClassB.cs" />
